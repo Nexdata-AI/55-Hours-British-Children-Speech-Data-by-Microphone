@@ -1,8 +1,10 @@
 # 55-Hours-British-Children-Speech-Data-by-Microphone
-https://www.datatang.ai/datasets/62
+
 
 ## Description
 It collects 201 British children. The recordings are mainly children textbooks, storybooks. The average sentence length is 4.68 words and the average sentence repetition rate is 6.6 times. This data is recorded by high fidelity microphone. The text is manually transcribed with high accuracy.
+
+For more details, please refer to the link: https://bit.ly/3xS5N1z
 
 ## Format
 44.1kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
